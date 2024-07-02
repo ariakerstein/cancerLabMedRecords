@@ -38,5 +38,9 @@
     "react-router-dom": "6.23.1",
     "typescript": "5.5.2",
     "vite": "5.3.1"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3"
   }
 }
